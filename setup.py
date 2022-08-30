@@ -51,7 +51,6 @@ setup(
         "ml_collections",
         "numpy",
         "packaging",
-        "tensorflow",
         "tensorflow_datasets",
     ],
     tests_require=tests_require,
